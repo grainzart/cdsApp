@@ -1,0 +1,7 @@
+{
+  "name": "cds-app",
+  "version": "0.1.0",
+  "dependencies": {
+    "lumx": "~0.3.94"
+  }
+}
